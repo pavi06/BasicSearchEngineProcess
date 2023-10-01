@@ -1,0 +1,9 @@
+{
+    "principal":["Pavithra Pazhanivel"],
+    "teachers":["SaiRam","Shiva","Roke","Viji"],
+    "students":["Valli","Swe","Sakthi","Sri"],
+    "address":{
+        "street":"Gandhi Street",
+        "city":"Chennai"
+    }
+}
